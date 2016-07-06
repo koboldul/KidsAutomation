@@ -1,0 +1,15 @@
+	{	
+		"id": "1",
+		"tasks": [
+			{"id": "1", "order":1,"name": "Wash face"},
+			{"id": "2", "order":2,"name": "Eat breakfast"},
+			{"id": "3", "order":4,"name": "Get dressed"},
+			{"id": "4", "order":5,"name": "Prepare backpack"},
+			{"id": "5", "order":3,"name": "Brush teeth"},
+			{"id": "6", "order":3,"name": "Comb hair" },
+			{"id": "7", "order":4,"name": "Make the bed" }
+		],
+
+		"start": { "message":"Tudor , Alex ne trezim", "time": "7:00" },
+		"end": { "message":"Tudor , Alex plecam", "time": "7:57" }
+	}
